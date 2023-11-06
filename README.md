@@ -15,6 +15,10 @@ To perform Matrix addition with unified memory and check its performance with nv
 ```
 
 ## Program:
+```
+DEVELOPED BY : Vijayalakshmi Punyala
+REGISTER NO : 212221040134
+```
 With Memset
 ```
 %%cu
